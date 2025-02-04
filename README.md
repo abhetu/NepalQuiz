@@ -2,7 +2,7 @@
 
 A simple quiz application about Nepal, built using React and TypeScript.
 
-#Installation:
+#Installation: <br>
  `npm install `<br>
  `npm run dev `
 
