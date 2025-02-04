@@ -2,10 +2,9 @@
 
 A simple quiz application about Nepal, built using React and TypeScript.
 
-Installation:
-
-'npm install'
-'npm run dev'
+#Installation:
+ `npm install `<br>
+ `npm run dev `
 
 Features
 
